@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyank Desai</h1>
 <h3 align="center">Experienced DevOps Engineer adept at leveraging automation and collaboration tools to enhance software development workflows and infrastructure efficiency.</h3>
 
-- 👯 I’m looking to collaborate on **DevOps Projects**
-
-- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **virgopriyank91@gmail.com**
 
